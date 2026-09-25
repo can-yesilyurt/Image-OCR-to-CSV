@@ -1,0 +1,3 @@
+Pillow>=10.4,<13
+# Optional for HEIC/HEIF images: python -m pip install pillow-heif
+# The Tesseract executable must be installed separately; see README.md.
